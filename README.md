@@ -1,2 +1,5 @@
 # PSU_minishell1_2019
-a tcsh's minishell developped in C
+A tcsh's minishell developped in C
+Please make the project before using.
+USAGE:
+  ./mysh
